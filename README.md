@@ -23,11 +23,11 @@ API list
 
 - get user by id - done
 
-rate-limiting - done
-testing - done
-caching - pending
-RBAC - pending
+- rate-limiting - done
+- testing - done
+- caching - pending
+- RBAC - pending
 
-validations - done
+- validations - done
 
-Hosting - done
+- Hosting - done
