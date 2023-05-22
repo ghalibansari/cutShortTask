@@ -27,6 +27,8 @@ API list
 - testing - done
 - caching - pending
 - RBAC - pending
+- Documentation - pending
+- Swagger - pending
 
 - validations - done
 
